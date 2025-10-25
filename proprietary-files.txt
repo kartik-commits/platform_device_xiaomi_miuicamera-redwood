@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from marble OS2.0.209.0.VMRMIXM
+# All blobs from missi_phone_global-user 14 UKQ1.240624.001 OS2.0.10.0.UMSMIXM release-keys
 
 product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Camera,Camera2,GoogleCameraGo
 system_ext/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so
